@@ -141,6 +141,7 @@ main {
 .path-card,
 .deliverable-card,
 .source-card,
+.literature-panel,
 .timeline-card {
   border: 1px solid var(--line);
   background: var(--paper);
@@ -411,6 +412,35 @@ main {
 .deliverable-meta {
   margin-top: -0.25rem;
   margin-bottom: 0.8rem;
+}
+
+.literature-panel {
+  padding: 1.4rem 1.5rem;
+  border-radius: var(--radius-md);
+}
+
+.literature-list {
+  margin: 0;
+  padding-left: 1.3rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.literature-list li {
+  color: var(--ink);
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(16, 38, 42, 0.08);
+}
+
+.literature-list li:last-child {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.literature-list em {
+  color: var(--accent-2);
+  font-style: normal;
+  font-weight: 700;
 }
 
 .site-footer {
