@@ -26,10 +26,22 @@ jobs:
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
 
+      - name: Use README as homepage
+        run: |
+          mkdir site
+          printf -- '---\ntitle: AI and Public Governance\n---\n\n' > site/index.md
+          cat README.md >> site/index.md
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./site
+          destination: ./_site
+
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: docs
+          path: _site
 
   deploy:
     runs-on: ubuntu-latest
