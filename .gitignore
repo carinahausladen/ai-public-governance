@@ -1,1 +1,7 @@
+# Only the README (GitHub Pages site) and its workflow are public.
+# Everything else in this folder stays local.
+/*
+!/README.md
+!/.gitignore
+!/.github/
 .DS_Store
