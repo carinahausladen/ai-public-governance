@@ -3,7 +3,8 @@
 POL-32450, Proseminar II, Universität Konstanz, winter semester 2026/27
 Tuesdays, 11:45–13:15, Room G307
 
-A handful of private labs build the most consequential technology of the decade. This seminar asks what public institutions need to know about it, who shapes the rules, and which tools work while the evidence is still thin.
+A handful of private labs build the most consequential technology of the decade. 
+This seminar asks what public institutions need to know about it, who shapes the rules, and which policy tools could work while the evidence is still thin.
 
 
 ## Sessions
@@ -28,32 +29,34 @@ A handful of private labs build the most consequential technology of the decade.
 
 ## Readings
 
+Students present all three readings of each topic. The model reading shows the structure of the exposé (research question, theory, hypotheses, data, results); the other two are for research inspiration.
+
 **Topic 1: AI and work**
 
-1. Humlum & Vestergaard (2025). Still waters, rapid currents: Early labor market transformation under generative AI. NBER Working Paper.
-2. Acemoglu (2025). The simple macroeconomics of AI. Economic Policy.
-3. Brynjolfsson, Li & Raymond (2025). Generative AI at work. Quarterly Journal of Economics.
+- Model reading: Haslberger, Gingrich & Bhatia (2025). Rage against the machine? Generative AI exposure, subjective risk, and policy preferences. *Journal of European Public Policy*.
+- Research inspiration: Acemoglu (2025). The simple macroeconomics of AI. *Economic Policy*.
+- Research inspiration: Brynjolfsson, Li & Raymond (2025). Generative AI at work. *Quarterly Journal of Economics*.
 
 **Topic 2: Labs as producers of knowledge**
 
-1. Chatterji et al. (2025). How people use ChatGPT. NBER Working Paper 34255.
-2. Akcigit et al. (2026). Attention (and money) is all you need: Why universities are struggling to keep AI talent. NBER Working Paper.
-3. Hannig et al. (2026). Campus AI vs. commercial AI: Comparing how students and employees perceive their university's LLM chatbot vs. ChatGPT. CHI 2026.
+- Model reading: Hannig et al. (2026). Campus AI vs. commercial AI: Comparing how students and employees perceive their university's LLM chatbot vs. ChatGPT. *CHI 2026*.
+- Research inspiration: Chatterji et al. (2025). How people use ChatGPT. NBER Working Paper 34255.
+- Research inspiration: Akcigit et al. (2026). Attention (and money) is all you need: Why universities are struggling to keep AI talent. NBER Working Paper.
 
 **Topic 3: Labs shaping rules and markets**
 
-1. Lin et al. (2025). Funding AI for good: A call for meaningful engagement. CHI 2026.
-2. Birhane et al. (2026). Big AI's regulatory capture: Mapping industry interference and government complicity. ACM FAccT.
-3. Widder, Whittaker & West (2024). Why 'open' AI systems are actually closed, and why this matters. Nature.
+- Model reading: Lin et al. (2025). Funding AI for good: A call for meaningful engagement. *CHI 2026*.
+- Research inspiration: Birhane et al. (2026). Big AI's regulatory capture: Mapping industry interference and government complicity. *ACM FAccT*.
+- Research inspiration: Widder, Whittaker & West (2024). Why 'open' AI systems are actually closed, and why this matters. *Nature*.
 
 **Topic 4: Governing risk with thin evidence**
 
-1. Hoes & Gilardi (2025). Existential risk narratives about AI do not distract from its immediate harms. PNAS.
-2. Bengio et al. (2026). International AI Safety Report 2026: Extended summary for policymakers.
-3. Bommasani et al. (2025). Advancing science- and evidence-based AI policy. Science.
+- Model reading: Hoes & Gilardi (2025). Existential risk narratives about AI do not distract from its immediate harms. *PNAS*.
+- Research inspiration: Bengio et al. (2026). International AI Safety Report 2026: Extended summary for policymakers.
+- Research inspiration: Bommasani et al. (2025). Advancing science- and evidence-based AI policy. *Science*.
 
 **Topic 5: Democracy and power**
 
-1. Hackenburg et al. (2025). The levers of political persuasion with conversational AI. Science.
-2. Magistro et al. (2026). Attitudes toward artificial intelligence (AI) and globalization: Common microfoundations and political implications. American Journal of Political Science.
-3. Kulveit et al. (2025). Gradual disempowerment: Systemic existential risks from incremental AI development. ICML.
+- Model reading: Magistro et al. (2026). Attitudes toward artificial intelligence (AI) and globalization: Common microfoundations and political implications. *American Journal of Political Science*.
+- Research inspiration: Hackenburg et al. (2025). The levers of political persuasion with conversational AI. *Science*.
+- Research inspiration: Kulveit et al. (2025). Gradual disempowerment: Systemic existential risks from incremental AI development. *ICML*.
