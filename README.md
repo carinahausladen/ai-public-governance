@@ -13,23 +13,23 @@ This seminar examines the concentration of power in AI development, its conseque
 | Session | Date | Content |
 |---|---|---|
 | **Getting started** | | |
-| 1 | Tue 20 Oct 2026 | Introduction |
-| 2 | Tue 27 Oct 2026 | Paper exploration |
+| 1 | Oct 20 | Introduction |
+| 2 | Oct 27 | Paper exploration |
 | **Exploring topics** | | |
-| 3 | Tue 03 Nov 2026 | 1. AI and work |
-| 4 | Tue 10 Nov 2026 | 2. Labs as producers of knowledge |
-| 5 | Tue 17 Nov 2026 | 3. Labs shaping rules and markets |
-| 6 | Tue 24 Nov 2026 | 4. Governing risk with thin evidence |
-| 7 | Tue 01 Dec 2026 | 5. Democracy and power |
+| 3 | Nov 3 | 1. AI and work |
+| 4 | Nov 10 | 2. Labs as producers of knowledge |
+| 5 | Nov 17 | 3. Labs shaping rules and markets |
+| 6 | Nov 24 | 4. Governing risk with thin evidence |
+| 7 | Dec 1 | 5. Democracy and power |
 | **Developing your exposé** | | |
-| 8 | Tue 08 Dec 2026 | Idea Presentation |
-| 9 | Tue 15 Dec 2026 | Group Feedback |
-| 10 | Tue 22 Dec 2026 | Short Expose Presentation |
-| 11 | Tue 12 Jan 2027 | Long Expose (Writing Session) |
-| 12 | Tue 19 Jan 2027 | Long Expose Group Feedback |
-| 13 | Tue 26 Jan 2027 | Single Group Feedback |
+| 8 | Dec 8 | Idea Presentation |
+| 9 | Dec 15 | Group Feedback |
+| 10 | Dec 22 | Short Expose Presentation |
+| 11 | Jan 12 | Long Expose (Writing Session) |
+| 12 | Jan 19 | Long Expose Group Feedback |
+| 13 | Jan 26 | Single Group Feedback |
 | **Wrap-up** | | |
-| 14 | Tue 02 Feb 2027 | Final Presentations |
+| 14 | Feb 2 | Final Presentations |
 
 
 ## Readings
