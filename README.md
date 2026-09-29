@@ -10,29 +10,29 @@ This seminar examines the concentration of power in AI development, its conseque
 
 ## Sessions
 
-| Date | Session | In class | ILIAS | Prepare / deliver |
+| Date | Session | In class | To do before this session | Suggested workload (h) |
 |---|---|---|---|---|
-| **Getting started** | | | | |
-| Oct 20 | Introduction | Course overview<br>Ground rules for using AI tools | | |
-| Oct 27 | Paper exploration | 25 min reading abstracts<br>Everyone presents one abstract in 3 min<br>Everyone picks a paper to present | | Your choice of paper to present |
-| **Exploring topics** | | Each week: three topic presentations and an AI reflection | | |
-| Nov 3 | 1. AI and work | | | Practice exposé: introduction and conclusion |
-| Nov 10 | 2. Labs as producers of knowledge | | | Practice exposé: results |
-| Nov 17 | 3. Labs shaping rules and markets | | | Practice exposé: literature review and gap figure |
-| Nov 24 | 4. Governing risk with thin evidence | | | Practice exposé: hypothesis and design |
-| Dec 1 | 5. Democracy and power | | Research-question unit | Practice exposé: theory and DAG<br>Your topic and research question |
-| **Developing your exposé** | | | | |
-| Dec 8 | Idea pitch | 3 min pitch with one slide (research question, gap, H1, data), 2 min feedback | | One slide |
-| Dec 15 | Short exposé: group feedback | Swap short-exposé drafts in groups<br>Writing Centre: flash exposé | Peer-feedback unit | Short exposé (about 2 pages plus bibliography, graded), due after this session |
-| Dec 22 | Long exposé: introduction and literature gap | Present your introduction and a visual overview of your literature gap; the group gives feedback | | Introduction and gap figure |
-| Break | | | Writing-reflection unit | |
-| Jan 12 | Long exposé: theoretical model and DAG | Follow-up on the writing reflection<br>Present your theoretical model and DAG; the group gives feedback | | Theoretical model and DAG in Overleaf, on one slide |
-| Jan 19 | Writing session | Writing Centre | | Your draft in Overleaf |
-| **Wrap-up** | | | | |
-| Jan 26 | Final presentations I | Half of the class presents their long exposé (about 10 min, ungraded), starting with their thread; the class gives feedback | | Everyone: a social media thread covering all parts of your long exposé, on slides |
-| Feb 2 | Final presentations II | The other half presents | | Long exposé (10–12 pages, graded), submitted before class; no changes after |
+| **Getting started** | |  | | |
+| Oct 20 | Introduction | Course overview<br>Ground rules for using AI tools |  |  |
+| Oct 27 | Paper exploration | 25 min reading abstracts<br>Everyone presents one abstract in 3 min<br>Everyone picks the paper they will present: it becomes your topic | Look through the reading list and shortlist three papers you might present | 2 |
+| **Exploring topics** | | Each week: three topic presentations, an AI reflection, and one writing step shown on the model reading | | |
+| Nov 3 | 1. AI and work |  | Read your paper in full; write one sentence on how you would extend it<br>Read the model reading in full, and the abstract and introduction of the other two<br>ILIAS: research-question unit | 13 (4 + 6 + 3) |
+| Nov 10 | 2. Labs as producers of knowledge |  | Your exposé: introduction ending with your research question, plus a three-sentence conclusion<br>Readings as above<br>Find five papers related to yours | 13 (4 + 6 + 3) |
+| Nov 17 | 3. Labs shaping rules and markets |  | Your exposé: the figure you hope to show (dummy figure), with a results paragraph<br>Readings as above<br>Read the related papers | 13 (3 + 6 + 4) |
+| Nov 24 | 4. Governing risk with thin evidence |  | Your exposé: literature review paragraph and a figure or table that shows your gap<br>Readings as above | 13 (7 + 6) |
+| Dec 1 | 5. Democracy and power |  | Your exposé: hypothesis and design<br>Readings as above<br>Revise your introduction with what you have learned | 13 (5 + 6 + 2) |
+| **Developing your exposé** | |  | | |
+| Dec 8 | Short exposé: group feedback | Swap short-exposé drafts in groups<br>Writing Centre: flash exposé | Your exposé: simple model and DAG<br>Put your sections together into a short-exposé draft<br>ILIAS: peer-feedback unit | 15 (5 + 7 + 3) |
+| Dec 15 | Long exposé: introduction and literature gap | Present your introduction and a visual overview of your literature gap; the group gives feedback | Revise and submit your short exposé (about 2 pages plus bibliography, graded)<br>Long exposé: introduction and literature gap | 15 (7 + 8) |
+| Dec 22 | Long exposé: theoretical model and DAG | Present your theoretical model and DAG; the group gives feedback | Long exposé: theoretical model and DAG | 15 |
+| Dec 23 – Jan 6 | Break | No work |  |  |
+| Jan 12 | Writing session | Follow-up on the writing reflection<br>Writing Centre: writing session | ILIAS: writing-reflection unit<br>Long exposé: hypotheses and design | 12 (3 + 9) |
+| Jan 19 | Social media thread | Present your thread; the class gives feedback | Long exposé: full draft<br>A social media thread covering all parts of your long exposé, on slides | 13 (10 + 3) |
+| **Wrap-up** | |  | | |
+| Jan 26 | Final presentations I | Half of the class presents their long exposé (about 10 min, ungraded) | Revise and submit your long exposé (10–12 pages, graded) by Jan 25 | 10 |
+| Feb 2 | Final presentations II | The other half presents |  |  |
 
-**Practice exposé:** in each topic session, you write one section of an exposé for that week's model reading, using the course template.
+**Your exposé:** a small extension of the paper you present. Each topic week, the model reading shows one writing step in class; at home, you write that step for your extension.
 
 **AI reflection:** the presenter of the model reading shows how they used AI for that week's writing task, what went wrong, and how to do it better.
 
