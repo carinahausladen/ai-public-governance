@@ -3,8 +3,10 @@
 POL-32450, Proseminar II, Universität Konstanz, winter semester 2026/27
 Tuesdays, 11:45–13:15, Room G307
 
-A handful of private labs build the most consequential technology of the decade. 
-This seminar asks what public institutions need to know about it, who shapes the rules, and which policy tools could work while the evidence is still thin.
+A small number of private labs are increasingly shaping not only how AI is developed, but also what we know about it, who benefits from it, and how it is governed.
+
+This seminar examines the concentration of power in AI development, its consequences for work, knowledge, and markets, and the challenges democracies face in governing a technology whose risks remain deeply uncertain.
+
 
 
 ## Sessions
@@ -13,11 +15,11 @@ This seminar asks what public institutions need to know about it, who shapes the
 |---|---|---|
 | 1 | Tue 20 Oct 2026 | Introduction |
 | 2 | Tue 27 Oct 2026 | Paper exploration |
-| 3 | Tue 03 Nov 2026 | Topic 1: AI and work |
-| 4 | Tue 10 Nov 2026 | Topic 2: Labs as producers of knowledge |
-| 5 | Tue 17 Nov 2026 | Topic 3: Labs shaping rules and markets |
-| 6 | Tue 24 Nov 2026 | Topic 4: Governing risk with thin evidence |
-| 7 | Tue 01 Dec 2026 | Topic 5: Democracy and power |
+| 3 | Tue 03 Nov 2026 | 1. AI and work |
+| 4 | Tue 10 Nov 2026 | 2. Labs as producers of knowledge |
+| 5 | Tue 17 Nov 2026 | 3. Labs shaping rules and markets |
+| 6 | Tue 24 Nov 2026 | 4. Governing risk with thin evidence |
+| 7 | Tue 01 Dec 2026 | 5. Democracy and power |
 | 8 | Tue 08 Dec 2026 | Idea Presentation |
 | 9 | Tue 15 Dec 2026 | Group Feedback |
 | 10 | Tue 22 Dec 2026 | Short Expose Presentation |
@@ -29,34 +31,34 @@ This seminar asks what public institutions need to know about it, who shapes the
 
 ## Readings
 
-Students present all three readings of each topic. The model reading shows the structure of the exposé (research question, theory, hypotheses, data, results); the other two are for research inspiration.
+\* Model reading: everyone reads it in full; it is the template for your own exposé.
 
-**Topic 1: AI and work**
+**1. AI and work**
 
-- Model reading: Haslberger, Gingrich & Bhatia (2025). Rage against the machine? Generative AI exposure, subjective risk, and policy preferences. *Journal of European Public Policy*.
-- Research inspiration: Acemoglu (2025). The simple macroeconomics of AI. *Economic Policy*.
-- Research inspiration: Brynjolfsson, Li & Raymond (2025). Generative AI at work. *Quarterly Journal of Economics*.
+- Meeting the coming wave: The emerging politics of AI and work across 33 parliaments\*. Chueri & Törnberg (2026). arXiv preprint.
+- Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence. Brynjolfsson, Chandar & Chen (2025). Stanford Digital Economy Lab Working Paper.
+- Economic scenarios for transformative AI. Korinek, Jones, Sacher, Cotter & McCrory (2026). The Anthropic Institute Working Paper 2026-02.
 
-**Topic 2: Labs as producers of knowledge**
+**2. Labs as producers of knowledge**
 
-- Model reading: Hannig et al. (2026). Campus AI vs. commercial AI: Comparing how students and employees perceive their university's LLM chatbot vs. ChatGPT. *CHI 2026*.
-- Research inspiration: Chatterji et al. (2025). How people use ChatGPT. NBER Working Paper 34255.
-- Research inspiration: Akcigit et al. (2026). Attention (and money) is all you need: Why universities are struggling to keep AI talent. NBER Working Paper.
+- Attention (and money) is all you need: Why universities are struggling to keep AI talent\*. Akcigit, Chikis, Dinlersoz & Goldschlag (2026). NBER Working Paper.
+- Irresponsible AI: Big tech's influence on AI research and associated impacts. Hernández-García, Volokhova, Williams, Shaaban Kabakibo & Teng (2026). *ICML 2026* (position paper).
+- Open science, closed models: How funding shapes AI in science. Trišović & Sivaloganathan (2026). *AAAI/ACM Conference on AI, Ethics, and Society (AIES)*.
 
-**Topic 3: Labs shaping rules and markets**
+**3. Labs shaping rules and markets**
 
-- Model reading: Lin et al. (2025). Funding AI for good: A call for meaningful engagement. *CHI 2026*.
-- Research inspiration: Birhane et al. (2026). Big AI's regulatory capture: Mapping industry interference and government complicity. *ACM FAccT*.
-- Research inspiration: Widder, Whittaker & West (2024). Why 'open' AI systems are actually closed, and why this matters. *Nature*.
+- Big AI's regulatory capture: Mapping industry interference and government complicity\*. Birhane, Angius, Agnew, Pandit, Mitra, Dobbe & Talat (2026). *ACM FAccT*.
+- Concentrating intelligence: Scaling and market structure in artificial intelligence. Korinek & Vipra (2025). *Economic Policy*.
+- Why 'open' AI systems are actually closed, and why this matters. Widder, Whittaker & West (2024). *Nature*.
 
-**Topic 4: Governing risk with thin evidence**
+**4. Governing risk with thin evidence**
 
-- Model reading: Hoes & Gilardi (2025). Existential risk narratives about AI do not distract from its immediate harms. *PNAS*.
-- Research inspiration: Bengio et al. (2026). International AI Safety Report 2026: Extended summary for policymakers.
-- Research inspiration: Bommasani et al. (2025). Advancing science- and evidence-based AI policy. *Science*.
+- Existential risk narratives about AI do not distract from its immediate harms\*. Hoes & Gilardi (2025). *PNAS*.
+- The stories we govern by: AI, risk, and the power of imaginaries. Oldenburg & Papyshev (2025). *AAAI/ACM Conference on AI, Ethics, and Society (AIES)*.
+- Advancing science- and evidence-based AI policy. Bommasani et al. (2025). *Science*.
 
-**Topic 5: Democracy and power**
+**5. Democracy and power**
 
-- Model reading: Magistro et al. (2026). Attitudes toward artificial intelligence (AI) and globalization: Common microfoundations and political implications. *American Journal of Political Science*.
-- Research inspiration: Hackenburg et al. (2025). The levers of political persuasion with conversational AI. *Science*.
-- Research inspiration: Kulveit et al. (2025). Gradual disempowerment: Systemic existential risks from incremental AI development. *ICML*.
+- The limits of AI for authoritarian control\*. Yang (2026). *American Journal of Political Science*.
+- The impact of advanced AI systems on democracy. Summerfield et al. (2025). *Nature Human Behaviour*.
+- Gradual disempowerment: Systemic existential risks from incremental AI development. Kulveit, Douglas, Ammann, Turan, Krueger & Duvenaud (2025). *ICML*.
