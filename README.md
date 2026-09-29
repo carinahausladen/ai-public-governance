@@ -34,6 +34,8 @@ This seminar examines the concentration of power in AI development, its conseque
 
 ## Readings
 
+You will receive an invitation by email to the course's [Zotero group](https://www.zotero.org/groups/6694924) after the second session.
+
 **1. AI and work**
 
 - **Meeting the coming wave: The emerging politics of AI and work across 33 parliaments**\*<br>
