@@ -7,32 +7,32 @@ How should AI be governed?
 AI is changing work, science and state power, and companies, scientists and governments all shape the rules that follow.
 In this seminar we read recent research and ask what its findings imply for regulation.
 
-1. **Politics of AI and work.** Who sets the political agenda on AI and work: parties or investors?
-2. **Who shapes AI science.** Who steers the science done with AI: scientists' incentives, funders or model vendors?
-3. **Voluntary vs. mandatory accountability.** Do firms deliver on AI accountability, whether they promise it or the law requires it?
-4. **Designing rules that hold.** Why do AI rules fail to bind, and how can they be made to hold?
-5. **States vs. AI power.** Does AI strengthen or limit state power?
+1. **Politics of AI and work.** Investors decide which jobs AI targets and young workers lose first: does politics respond?
+2. **Who shapes AI science.** Who steers AI science: scientists' rewards, funders, or the firms that hire the talent?
+3. **Voluntary vs. mandatory accountability.** Do AI firms deliver accountability and openness, whether they promise it or the law requires it?
+4. **Designing rules that hold.** Why do AI rules fail to bind, and who decides what compliance means?
+5. **States vs. AI power.** Does AI strengthen or limit state power, and how do states shape AI in return?
 
 
 
 ## Sessions
 
-| Date   | Session                                   | Due before class                             | h  |
-|--------|-------------------------------------------|----------------------------------------------|----|
-| Oct 20 | Introduction                              | –                                            | –  |
-| Oct 27 | Extension ideas and literature gap        | Read your paper; first extension idea        | 13 |
-| Nov 3  | 1. Politics of AI and work                | Readings; literature gap                     | 13 |
-| Nov 10 | 2. Who shapes AI science                  | Readings; hypothesis                         | 13 |
-| Nov 17 | 3. Voluntary vs. mandatory accountability | Readings; causal research design             | 13 |
-| Nov 24 | 4. Designing rules that hold              | Readings; dummy figure + results             | 13 |
-| Dec 1  | 5. States vs. AI power                    | Readings; introduction + conclusion          | 13 |
-| Dec 8  | Short exposé presentation + group feedback| Short-exposé draft; submit by Dec 9          | 15 |
-| Dec 15 | Theoretical model and DAG                 | Long exposé: literature-gap figure           | 15 |
-| Dec 22 | 1:1 feedback (online)                     | Long exposé: model and DAG                   | 15 |
-| Jan 12 | 1:1 writing session                       | Long exposé: first draft                     | 12 |
-| Jan 19 | Presentation: social media thread         | Thread on slides                             | 13 |
-| Jan 26 | Final presentations + feedback I          | –                                            | 10 |
-| Feb 2  | Final presentations + feedback II         | –                                            | –  |
+| Date   | Session                                    | Due before class                      | h   |
+|--------|--------------------------------------------|---------------------------------------|-----|
+| Oct 20 | Introduction                               | –                                     | –   |
+| Oct 27 | Extension ideas and literature gap         | Read your paper; first extension idea | ~12 |
+| Nov 3  | 1. Politics of AI and work                 | Readings; literature gap              | ~12 |
+| Nov 10 | 2. Who shapes AI science                   | Readings; hypothesis                  | ~12 |
+| Nov 17 | 3. Voluntary vs. mandatory accountability  | Readings; causal research design      | ~12 |
+| Nov 24 | 4. Designing rules that hold               | Readings; dummy figure + results      | ~12 |
+| Dec 1  | 5. States vs. AI power                     | Readings; introduction + conclusion   | ~12 |
+| Dec 8  | Short exposé presentation + group feedback | Short-exposé draft; submit by Dec 9   | ~12 |
+| Dec 15 | Theoretical model and DAG                  | Long exposé: literature-gap figure    | ~12 |
+| Dec 22 | 1:1 feedback (online)                      | Long exposé: model and DAG            | ~12 |
+| Jan 12 | 1:1 writing session                        | Long exposé: first draft              | ~12 |
+| Jan 19 | Presentation: social media thread          | Thread on slides                      | ~12 |
+| Jan 26 | Final presentations + feedback I           | –                                     | ~12 |
+| Feb 2  | Final presentations + feedback II          | –                                     | ~12 |
 
 Submit your long exposé by Feb 3.
 
