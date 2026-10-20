@@ -45,15 +45,11 @@ Submit your long exposé by Feb 3.
 - Long-exposé presentation: ungraded
 - Long exposé: graded, 60%
 
-## Slides
-Find the course slides [here](https://slides.com/carinah/ai-and-public-governance).
+## Resources
 
-## Zotero
-Find the readings in our [Zotero group](https://www.zotero.org/groups/6694924).
-
-## Overleaf
-Find our Overleaf project [here](https://www.overleaf.com/project/6ad66c8e39f8f9af9c366884/share#1fb1b99d0715bed0873af73530917c52ca0431b0514867cd).
-
+- Slides: [course slides](https://slides.com/carinah/ai-and-public-governance)
+- Zotero: [Zotero group](https://www.zotero.org/groups/6694924) with all readings
+- Overleaf: [Overleaf project](https://www.overleaf.com/project/6ad66c8e39f8f9af9c366884/share#1fb1b99d0715bed0873af73530917c52ca0431b0514867cd)
 
 ## Readings
 
