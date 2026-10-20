@@ -7,11 +7,11 @@ How should AI be governed?
 AI is changing work, science and state power, and companies, scientists and governments all shape the rules that follow.
 In this seminar we read recent research and ask what its findings imply for regulation.
 
-1. **Politics of AI and work.** Investors decide which jobs AI targets and young workers lose first: does politics respond?
+1. **Politics of AI and work.** Who decides where AI hits work, who loses, and does politics respond?
 2. **Who shapes AI science.** Who steers AI science: scientists' rewards, funders, or the firms that hire the talent?
-3. **Voluntary vs. mandatory accountability.** Do AI firms deliver accountability and openness, whether they promise it or the law requires it?
+3. **Voluntary vs. mandatory accountability.** Do AI firms deliver on accountability and openness, whether promised or required by law?
 4. **Designing rules that hold.** Why do AI rules fail to bind, and who decides what compliance means?
-5. **States vs. AI power.** Does AI strengthen or limit state power, and how do states shape AI in return?
+5. **States vs. AI power.** Does AI strengthen or limit state power, and how do states shape AI?
 
 
 
