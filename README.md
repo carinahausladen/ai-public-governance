@@ -10,7 +10,7 @@ In this seminar we read recent research and ask what its findings imply for regu
 1. **Politics of AI and work.** Who decides where AI hits work, who loses, and does politics respond?
 2. **Who shapes AI science.** Who steers AI science: scientists' rewards, funders, or the firms that hire the talent?
 3. **Voluntary vs. mandatory accountability.** Do AI firms deliver on accountability and openness, whether promised or required by law?
-4. **Designing rules that hold.** Why do AI rules fail to bind, and who decides what compliance means?
+4. **Designing rules.** Why do AI rules fail to bind, and who decides what compliance means?
 5. **States vs. AI power.** Does AI strengthen or limit state power, and how do states shape AI?
 
 
@@ -24,7 +24,7 @@ In this seminar we read recent research and ask what its findings imply for regu
 | Nov 3  | 1. Politics of AI and work                 | Readings; literature gap              | ~12 |
 | Nov 10 | 2. Who shapes AI science                   | Readings; hypothesis                  | ~12 |
 | Nov 17 | 3. Voluntary vs. mandatory accountability  | Readings; causal research design      | ~12 |
-| Nov 24 | 4. Designing rules that hold               | Readings; dummy figure + results      | ~12 |
+| Nov 24 | 4. Designing rules                         | Readings; dummy figure + results      | ~12 |
 | Dec 1  | 5. States vs. AI power                     | Readings; introduction + conclusion   | ~12 |
 | Dec 8  | Short exposé presentation + group feedback | Short-exposé draft; submit by Dec 9   | ~12 |
 | Dec 15 | Theoretical model and DAG                  | Long exposé: literature-gap figure    | ~12 |
@@ -73,7 +73,7 @@ You will receive an invitation by email to the course's [Zotero group](https://w
 - [Do AI companies make good on voluntary commitments to the White House?](https://doi.org/10.1609/aies.v8i3.36743), `Wang 2025`
 - [Economies of open intelligence: Tracing power & participation in the model ecosystem](https://arxiv.org/abs/2512.03073), `Longpre 2025`
 
-**4. Designing rules that hold**
+**4. Designing rules**
 
 - [The backfiring effect of weak AI safety regulation](https://doi.org/10.1073/pnas.2509768123)\*, `Laufer 2026`
 - [Quality assessment of public summary of training content for GPAI models required by AI Act Article 53(1)(d)](https://arxiv.org/abs/2603.13270), `Blankvoort 2026`
