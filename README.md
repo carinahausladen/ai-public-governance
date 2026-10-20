@@ -41,16 +41,10 @@ Submit your long exposé by Feb 3.
 ## Activities and Assessment
 
 - Paper presentation: graded, 30%
-  - 10 min presentation + 5 min discussion
-  - The paper: question, design, one key figure, policy implications (8 min)
-  - Your extension idea (2 min)
 - Short exposé: graded, 30%
 - Long-exposé presentation: ungraded
 - Long exposé: graded, 40%
 - AI observatory: ungraded
-  - 10 min every week from Oct 27 to Jan 19, except Dec 22; sign up on Oct 27
-  - One student leads with working examples of AI use for that week's task and summarises the discussion; everyone shares what worked and what did not
-  - In some weeks two students can sign up
 
 ## Resources
 
