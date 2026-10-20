@@ -17,22 +17,22 @@ In this seminar we read recent research and ask what its findings imply for regu
 
 ## Sessions
 
-| Date   | Session                                    | Due before class                      | h   |
-|--------|--------------------------------------------|---------------------------------------|-----|
-| Oct 20 | Introduction                               | –                                     | –   |
-| Oct 27 | Extension ideas and literature gap         | Read your paper; first extension idea | ~12 |
-| Nov 3  | 1. Politics of AI and work                 | Readings; literature gap              | ~12 |
-| Nov 10 | 2. Who shapes AI science                   | Readings; hypothesis                  | ~12 |
-| Nov 17 | 3. Voluntary vs. mandatory accountability  | Readings; causal research design      | ~12 |
-| Nov 24 | 4. Designing rules                         | Readings; dummy figure + results      | ~12 |
-| Dec 1  | 5. States vs. AI power                     | Readings; introduction + conclusion   | ~12 |
-| Dec 8  | Short exposé presentation + group feedback | Short-exposé draft; submit by Dec 9   | ~12 |
-| Dec 15 | Theoretical model and DAG                  | Long exposé: literature-gap figure    | ~12 |
-| Dec 22 | 1:1 feedback (online)                      | Long exposé: model and DAG            | ~12 |
-| Jan 12 | 1:1 writing session                        | Long exposé: first draft              | ~12 |
-| Jan 19 | Presentation: social media thread          | Thread on slides                      | ~12 |
-| Jan 26 | Final presentations + feedback I           | –                                     | ~12 |
-| Feb 2  | Final presentations + feedback II          | –                                     | ~12 |
+| Date   | Session                                    | Due before class                                          | h   |
+|--------|--------------------------------------------|-----------------------------------------------------------|-----|
+| Oct 20 | Introduction                               | –                                                         | –   |
+| Oct 27 | Extension ideas and literature gap         | Read your paper; first extension idea                     | ~12 |
+| Nov 3  | 1. Politics of AI and work                 | Readings; literature gap                                  | ~12 |
+| Nov 10 | 2. Who shapes AI science                   | Readings; hypothesis                                      | ~12 |
+| Nov 17 | 3. Voluntary vs. mandatory accountability  | Readings; causal research design                          | ~12 |
+| Nov 24 | 4. Designing rules                         | Readings; dummy figure + results                          | ~12 |
+| Dec 1  | 5. States vs. AI power                     | Readings; introduction + conclusion                       | ~12 |
+| Dec 8  | Short exposé presentation + group feedback | Short-exposé draft; ILIAS: revision unit; submit by Dec 9 | ~12 |
+| Dec 15 | Theoretical model and DAG                  | Long exposé: literature-gap figure                        | ~12 |
+| Dec 22 | 1:1 feedback (online)                      | Long exposé: model and DAG                                | ~12 |
+| Jan 12 | 1:1 writing session                        | Long exposé: first draft; ILIAS: writing reflection       | ~12 |
+| Jan 19 | Presentation: social media thread          | Thread on slides                                          | ~12 |
+| Jan 26 | Final presentations + feedback I           | –                                                         | ~12 |
+| Feb 2  | Final presentations + feedback II          | –                                                         | ~12 |
 
 Submit your long exposé by Feb 3.
 
