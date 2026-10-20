@@ -59,23 +59,29 @@ You will receive an invitation by email to the course's [Zotero group](https://w
 
 - [Meeting the coming wave: The emerging politics of AI and work across 33 parliaments](https://arxiv.org/abs/2609.02296)\*, `Chueri 2026`
 - [Follow the money: A startup-based measure of AI exposure across occupations, industries, and regions](https://doi.org/10.1093/pnasnexus/pgag185), `Fenoaltea 2026`
+- [Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence](https://digitaleconomy.stanford.edu/publications/canaries-in-the-coal-mine/), `Brynjolfsson 2026`
 
 **2. Who shapes AI science**
 
 - [Artificial intelligence tools expand scientists' impact but contract science's focus](https://doi.org/10.1038/s41586-025-09922-y)\*, `Hao 2026`
 - [Open science, closed models: How funding shapes AI in science](https://doi.org/10.1609/aies.v9i4.43329), `Trišović 2026`
+- [Attention (and money) is all you need: Why universities are struggling to keep AI talent](https://www.nber.org/papers/w34964), `Akcigit 2026`
 
 **3. Voluntary vs. mandatory accountability**
 
 - [Auditing the audits: Lessons for algorithmic accountability from Local Law 144's bias audits](https://doi.org/10.1145/3715275.3732004)\*, `Gerchick 2025`
 - [Do AI companies make good on voluntary commitments to the White House?](https://doi.org/10.1609/aies.v8i3.36743), `Wang 2025`
+- [Economies of open intelligence: Tracing power & participation in the model ecosystem](https://arxiv.org/abs/2512.03073), `Longpre 2025`
 
 **4. Designing rules that hold**
 
 - [The backfiring effect of weak AI safety regulation](https://doi.org/10.1073/pnas.2509768123)\*, `Laufer 2026`
 - [Quality assessment of public summary of training content for GPAI models required by AI Act Article 53(1)(d)](https://arxiv.org/abs/2603.13270), `Blankvoort 2026`
+- [Governing by proxy: How regulatory intermediaries shape EU AI Act compliance in practice](https://doi.org/10.1609/aies.v9i2.43231), `Jarvers 2026`
 
 **5. States vs. AI power**
 
 - [The limits of AI for authoritarian control](https://doi.org/10.1111/ajps.70045)\*, `Yang 2026`
 - [Computer-vision research powers surveillance technology](https://doi.org/10.1038/s41586-025-08972-6), `Kalluri 2025`
+- [State media control influences large language models](https://doi.org/10.1038/s41586-026-10506-7), `Waight 2026`
+- [Generative propaganda: Evidence of AI's impact from a state-backed disinformation campaign](https://doi.org/10.1093/pnasnexus/pgaf083), `Wack 2025`
